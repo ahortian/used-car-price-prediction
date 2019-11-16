@@ -1,5 +1,6 @@
 # used-car-price-prediction
-Build a predictive model guiding the auction participants to understand true value of the used car
+This project focuses on cleaning the data and perform feature engineering.
+However, it could be extended to ultimatimately build a predictive model which guides the auction participants to understand the true value of used cars.
 
 ### Data Cleaning and Feature engineering
 The first step of this project is to clean the data and engineer the features before building the model. 
